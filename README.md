@@ -8,3 +8,4 @@
 * 📊 Worked with visualization tools such as Tableau, Google Analytics and PowerBI
 * 👯 Looking to collaborate on projects involving data analytics, data visualization and storytelling
 * 📫 Linkedin - www.linkedin.com/in/sanjit-mahajan
+* 📈 Tableau Public - https://public.tableau.com/app/profile/sanjit.mahajan
